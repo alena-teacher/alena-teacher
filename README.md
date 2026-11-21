@@ -14,6 +14,8 @@
 
 *Математика становится понятной, когда её объясняют на понятном именно вам языке.*
 
+[**Перейти на сайт →**](https://alena-teacher.github.io/about-me/)
+
 </div>
 
 ---
@@ -132,6 +134,7 @@
 
 | Связь | Контакт |
 | :---: | :--- |
+| **Сайт** | [alena-teacher.github.io/about-me](https://alena-teacher.github.io/about-me/) |
 | **Telegram** | [@Alena_t85](https://t.me/Alena_t85) |
 | **WhatsApp** | [+7-915-678-8272](https://wa.me/79156788272) |
 | **Телефон** | +7-915-678-8272|
