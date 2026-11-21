@@ -14,7 +14,7 @@
 
 *Математика становится понятной, когда её объясняют на понятном именно вам языке.*
 
-[**Перейти на сайт →**](https://alena-teacher.github.io/about-me/)
+[**Перейти на сайт →**](https://github.com/alena-teacher/services/)
 
 </div>
 
