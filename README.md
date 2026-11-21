@@ -132,9 +132,9 @@
 
 | Связь | Контакт |
 | :---: | :--- |
-| **Telegram** | [@alena_teacher](https://t.me/alena_teacher) |
-| **WhatsApp** | [+7 999 000-00-00](https://wa.me/79990000000) |
-| **E-mail** | [alena.teacher@example.com](mailto:alena.teacher@example.com) |
+| **Telegram** | [@Alena_t85](https://t.me/Alena_t85) |
+| **WhatsApp** | [+7-915-678-8272](https://wa.me/79156788272) |
+| **Телефон** | +7-915-678-8272|
 
 *Стоимость и свободное время для занятий — в личных сообщениях.*
 
